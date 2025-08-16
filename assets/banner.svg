@@ -1,5 +1,5 @@
 <!-- Save as assets/banner.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Hesham Salah — DevOps & Backend Engineer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label=".Net Developer">
   <style>
     :root{
       --bg-a: #f8fafc;
@@ -40,7 +40,7 @@
 
   <!-- left texts -->
   <text class="title" x="40" y="70" font-size="36">Hesham Salah</text>
-  <text class="subtitle" x="40" y="110">.NET Developer | Backend & DevOps</text>
+  <text class="subtitle" x="40" y="110">.NET Developer | Backend &amp; DevOps</text>
 
   <!-- right card with initials -->
   <g transform="translate(820,40)" opacity="0.98">
