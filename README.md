@@ -7,7 +7,12 @@
 </p>
 
 
-<h3> I’m a Backend & .NET Developer with deep expertise in C# and proven experience delivering fast, scalable, and secure applications using ASP.NET Core (API & MVC). I build high-performance solutions following Clean Architecture and SOLID principles, ensuring maintainable and production-ready systems.</h3>
+<h3>
+I’m a Backend .NET Developer with deep expertise in <strong>C#</strong> and extensive experience building <strong>fast, scalable, and secure applications</strong> using <strong>ASP.NET Core</strong> (API & MVC).  
+I am also familiar with <strong>DevOps practices</strong> and containerization.  
+I design high-performance solutions following <strong>Clean Architecture</strong> and <strong>SOLID principles</strong>, ensuring maintainable, robust, and production-ready systems.
+</h3>
+
 
 ---
 
