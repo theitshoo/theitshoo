@@ -20,9 +20,4 @@ I design high-performance solutions following <strong>Clean Architecture</strong
 <h3 align="left">Connect with me:</h3>
 
 
-<div align="center">
-<a href="https://www.linkedin.com/in/theitshoo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
-<a href="mailto:hesham.salah.sa@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" height="40" style="background-color:#D14836; border-radius:8px; padding:5px; margin: 0 10px;"/></a>
-<a href="https://github.com/theitshoo"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin: 0 10px;"/></a>
-<a href="https://github.com/theitshoo"><img src="https://img.shields.io/badge/Follow-black?logo=github&style=flat&logoColor=white" alt="Follow on GitHub" style="margin: 0 10px;" /></a>
-</div>
+<p align="center"><a href="https://www.linkedin.com/in/theitshoo"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:hesham.salah.sa@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/theitshoo"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" /></a></p>
