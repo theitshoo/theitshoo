@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/theitshoo/theitshoo/blob/main/docs/assets/header.gif?raw=true" alt="Header animation"/>
+  <img src="docs/assets/header.gif?raw=true" alt="Header animation"/>
 </p>
 
 <p align="center">
