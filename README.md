@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/theitshoo/theitshoo/blob/main/assets/banner.svg" alt="Hesham Salah — DevOps &amp; Backend Engineer" style="max-width:100%; height:auto; border-radius:12px;">
+  <img src="https://github.com/theitshoo/theitshoo/blob/main/docs/assets/banner.svg" alt="Hesham Salah — DevOps &amp; Backend Engineer" style="max-width:100%; height:auto; border-radius:12px;">
 </p>
 
 
