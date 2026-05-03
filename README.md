@@ -8,9 +8,7 @@
 
 
 <h3>
-I’m a Backend .NET Developer with deep expertise in <strong>C#</strong> and extensive experience building <strong>fast, scalable, and secure applications</strong> using <strong>ASP.NET Core</strong> (API & MVC).  
-I am also familiar with <strong>DevOps practices</strong> and containerization.  
-I design high-performance solutions following <strong>Clean Architecture</strong> and <strong>SOLID principles</strong>, ensuring maintainable, robust, and production-ready systems.
+Backend Developer focused on C# and ASP.NET Core, building scalable and secure web APIs and applications. Worked with ASP.NET Core (API & MVC) in web application development. Skilled in data access using Entity Framework Core and LINQ, with knowledge of Dapper, ADO.NET, and SQL Server, and basic exposure to MongoDB and Redis. Familiar with Docker, basic DevOps practices, and Java, JavaScript, and Python.
 </h3>
 
 
