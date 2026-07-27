@@ -2,21 +2,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Professional Profile Banner">
   <style>
     :root {
-      --bg-a: #f8fafc;
-      --bg-b: #f1f5f9;
+      /* Deepened Light Theme to contrast with pure white backgrounds */
+      --bg-a: #f1f5f9;
+      --bg-b: #e2e8f0;
+      --border: #cbd5e1;
       --text-main: #0f172a;
       --text-sub: #475569;
       --accent: #0ea5a1;
-      --grid-line: rgba(15, 23, 42, 0.04);
+      --grid-line: rgba(15, 23, 42, 0.06);
     }
     @media (prefers-color-scheme: dark) {
       :root {
         --bg-a: #0a0f1a;
         --bg-b: #111827;
+        --border: rgba(255, 255, 255, 0.05);
         --text-main: #ffffff;
         --text-sub: #94a3b8;
         --accent: #06b6d4;
-        --grid-line: rgba(255, 255, 255, 0.03);
+        --grid-line: rgba(255, 255, 255, 0.04);
       }
     }
     text.title { 
@@ -33,14 +36,14 @@
   </style>
 
   <defs>
-    <linearGradient id="bg-grad" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="var(--bg-a)"/>
-      <stop offset="1" stop-color="var(--bg-b)"/>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--bg-a)"/>
+      <stop offset="100%" stop-color="var(--bg-b)"/>
     </linearGradient>
   </defs>
 
-  <!-- Background with adjusted sharp radius -->
-  <rect width="1000" height="200" rx="4" fill="url(#bg-grad)"/>
+  <!-- Background with adjusted coordinates and a subtle border to prevent blending -->
+  <rect width="998" height="198" x="1" y="1" rx="4" fill="url(#bg-grad)" stroke="var(--border)" stroke-width="1.5"/>
 
   <!-- Structured, minimalist grid for precise framing -->
   <g stroke="var(--grid-line)" stroke-width="1" fill="none">
@@ -58,8 +61,8 @@
   </text>
   
   <!-- Subtle accent dots aligning with the grid intersections -->
-  <circle cx="250" cy="40" r="2.5" fill="var(--accent)" opacity="0.6"/>
-  <circle cx="750" cy="40" r="2.5" fill="var(--accent)" opacity="0.6"/>
-  <circle cx="250" cy="160" r="2.5" fill="var(--accent)" opacity="0.6"/>
-  <circle cx="750" cy="160" r="2.5" fill="var(--accent)" opacity="0.6"/>
+  <circle cx="250" cy="40" r="2.5" fill="var(--accent)" opacity="0.8"/>
+  <circle cx="750" cy="40" r="2.5" fill="var(--accent)" opacity="0.8"/>
+  <circle cx="250" cy="160" r="2.5" fill="var(--accent)" opacity="0.8"/>
+  <circle cx="750" cy="160" r="2.5" fill="var(--accent)" opacity="0.8"/>
 </svg>
