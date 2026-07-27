@@ -8,7 +8,7 @@
 
 
 <h3>
-Backend Developer focused on C# and ASP.NET Core, building scalable and secure web APIs and applications. Worked with ASP.NET Core (API & MVC) in web application development. Skilled in data access using Entity Framework Core and LINQ, with knowledge of Dapper, ADO.NET, and SQL Server, and basic exposure to MongoDB and Redis. Familiar with Docker, basic DevOps practices, and Java, JavaScript, and Python.
+Software Engineer specializing in .NET, backend development, and DevOps. Skilled in building and maintaining web applications using ASP.NET Core (API & MVC), C#, Entity Framework Core, LINQ, and SQL Server. Familiar with frontend development using HTML, CSS, and JavaScript. Experienced in application deployment, Docker, Kubernetes, Linux, CI/CD, and production environments, with knowledge of Dapper, ADO.NET, MongoDB, and Redis.
 </h3>
 
 
