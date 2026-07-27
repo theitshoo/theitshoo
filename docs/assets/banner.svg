@@ -2,14 +2,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="200" viewBox="0 0 1000 200" role="img" aria-label="Professional Profile Banner">
   <style>
     :root {
-      /* Deepened Light Theme to contrast with pure white backgrounds */
-      --bg-a: #f1f5f9;
-      --bg-b: #e2e8f0;
-      --border: #cbd5e1;
+      /* Darkened Light Theme for better contrast against white pages */
+      --bg-a: #e2e8f0;
+      --bg-b: #cbd5e1;
+      --border: #94a3b8;
       --text-main: #0f172a;
-      --text-sub: #475569;
+      --text-sub: #334155;
       --accent: #0ea5a1;
-      --grid-line: rgba(15, 23, 42, 0.06);
+      --grid-line: rgba(15, 23, 42, 0.08);
     }
     @media (prefers-color-scheme: dark) {
       :root {
