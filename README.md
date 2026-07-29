@@ -12,7 +12,7 @@
 Software Engineer specializing in **.NET**, **Backend Development**, and **DevOps**.
 
 - 🔹 Build and maintain web applications using **ASP.NET Core (API & MVC)**, **C#**, **Entity Framework Core**, **LINQ**, and **SQL Server**.
-- 🔹 Familiar with frontend development using **HTML**, **CSS**, and ** Vanilla JavaScript**.
+- 🔹 Familiar with frontend development using **HTML**, **CSS**, and **Vanilla JavaScript**.
 - 🔹 Experienced in **application deployment**, **Docker**, **Kubernetes**, **Linux**, **CI/CD**, and **production environments**.
 - 🔹 Knowledge of **Dapper**, **ADO.NET**, **MongoDB**, and **Redis**.
 
