@@ -7,7 +7,7 @@
 </p>
 
 
-### 👋 About Me
+<h3 align="left">👋 About Me</h3>
 
 Software Engineer specializing in **.NET**, **Backend Development**, and **DevOps**.
 
@@ -19,6 +19,17 @@ Software Engineer specializing in **.NET**, **Backend Development**, and **DevOp
 
 ---
 
+<h3 align="left">⚡ GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theitshoo&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=theitshoo&theme=dark&hide_border=false&layout=compact" height="180" alt="Top Languages" />
+</p>
+
+---
 
 <h3 align="left">🤝 Let's Connect</h3>
 
