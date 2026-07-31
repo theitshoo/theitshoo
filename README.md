@@ -22,7 +22,7 @@ Software Engineer specializing in **.NET**, **Backend Development**, and **DevOp
 <h3 align="left">⚡ GitHub Highlights</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=theitshoo&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=theitshoo&theme=dark&hide_border=false" alt="theitshoo's GitHub streak" />
 </p>
 
 <p align="center">
