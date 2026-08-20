@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="56" viewBox="0 0 300 56">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="56" viewBox="0 0 400 56">
 
   <!-- Background -->
   <rect
     x="1"
     y="1"
-    width="298"
+    width="398"
     height="54"
     rx="14"
     fill="#18181B"
@@ -15,7 +15,7 @@
   <rect
     x="5"
     y="5"
-    width="290"
+    width="390"
     height="46"
     rx="11"
     fill="none"
