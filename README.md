@@ -16,6 +16,20 @@ Software Engineer specializing in **.NET**, **Backend Development**, and **DevOp
 - 🔹 Experienced in **application deployment**, **Docker**, **Kubernetes**, **Linux**, **CI/CD**, and **production environments**.
 - 🔹 Knowledge of **Dapper**, **ADO.NET**, **MongoDB**, and **Redis**.
 
+---
+
+<h3 align="left">💻 CV</h3>
+
+<p align="left">
+  <a href="./docs/assets/Hesham_Salah_CV.pdf">
+    <img
+      src="./docs/assets/view-cv.svg"
+      alt="View My CV"
+      width="220"
+      height="56"
+    />
+  </a>
+</p>
 
 ---
 
