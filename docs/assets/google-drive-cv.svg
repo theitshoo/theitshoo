@@ -30,9 +30,9 @@
     stroke-linecap="round"/>
 
 
-  <!-- Icon container -->
+  <!-- Google Drive icon container -->
   <rect
-    x="118"
+    x="58"
     y="12"
     width="32"
     height="32"
@@ -42,53 +42,44 @@
     stroke="#FFFFFF"
     stroke-opacity="0.10"/>
 
-  <!-- Document -->
-  <path
-    d="M128 18H135L140 23V36C140 36.6 139.6 37 139 37H128C127.4 37 127 36.6 127 36V19C127 18.4 127.4 18 128 18Z"
-    fill="none"
-    stroke="#E4E4E7"
-    stroke-width="1.6"
-    stroke-linejoin="round"/>
+  <!-- Google Drive icon container -->
+<rect
+  x="58"
+  y="12"
+  width="32"
+  height="32"
+  rx="9"
+  fill="#FFFFFF"
+  fill-opacity="0.06"
+  stroke="#FFFFFF"
+  stroke-opacity="0.10"/>
 
-  <!-- Document fold -->
-  <path
-    d="M135 18V23H140"
-    fill="none"
-    stroke="#A1A1AA"
-    stroke-width="1.6"
-    stroke-linejoin="round"/>
-
-  <!-- Document lines -->
-  <path
-    d="M130 27H137"
-    stroke="#A1A1AA"
-    stroke-width="1.3"
-    stroke-linecap="round"/>
-
-  <path
-    d="M130 30.5H137"
-    stroke="#A1A1AA"
-    stroke-width="1.3"
-    stroke-linecap="round"/>
-
+<!-- Google Drive official-style logo -->
+<image
+  x="58"
+  y="12"
+  width="32"
+  height="32"
+  href="./google-drive.svg"
+/>
 
   <!-- Text -->
   <text
-    x="162"
+    x="104"
     y="34"
     fill="#FAFAFA"
     font-family="Arial, Helvetica, sans-serif"
     font-size="15"
     font-weight="bold">
-    View My CV
+    View CV on Google Drive
   </text>
 
 
-  <!-- Divider before arrow -->
+  <!-- Divider -->
   <line
-    x1="260"
+    x1="310"
     y1="18"
-    x2="260"
+    x2="310"
     y2="38"
     stroke="#3F3F46"
     stroke-width="1"/>
@@ -96,7 +87,7 @@
 
   <!-- Arrow circle -->
   <circle
-    cx="282"
+    cx="335"
     cy="28"
     r="11"
     fill="#FFFFFF"
@@ -106,13 +97,13 @@
 
   <!-- Arrow -->
   <path
-    d="M277 28H286"
+    d="M330 28H339"
     stroke="#E4E4E7"
     stroke-width="1.5"
     stroke-linecap="round"/>
 
   <path
-    d="M282.5 24.5L286 28L282.5 31.5"
+    d="M335.5 24.5L339 28L335.5 31.5"
     fill="none"
     stroke="#E4E4E7"
     stroke-width="1.5"
