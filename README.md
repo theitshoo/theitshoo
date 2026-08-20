@@ -20,16 +20,14 @@ Software Engineer specializing in **.NET**, **Backend Development**, and **DevOp
 
 <h3 align="left">💻 CV</h3>
 
-<p align="left">
+<p align="center">
   <a href="./docs/assets/Hesham_Salah_CV.pdf">
-    <p align="center">
     <img
       src="./docs/assets/view-cv.svg"
       alt="View My CV"
       width="400"
       height="56"
     />
-      </p>
   </a>
 </p>
 
