@@ -26,7 +26,7 @@ Software Engineer specializing in **.NET**, **Backend Development**, and **DevOp
     <img
       src="./docs/assets/view-cv.svg"
       alt="View My CV"
-      width="220"
+      width="400"
       height="56"
     />
       </p>
