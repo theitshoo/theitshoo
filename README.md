@@ -24,7 +24,16 @@ Software Engineer specializing in **.NET**, **Backend Development**, and **DevOp
   <a href="./docs/assets/Hesham_Salah_CV.pdf">
     <img
       src="./docs/assets/view-cv.svg"
-      alt="View My CV"
+      alt="View My CV on GitHub"
+      width="400"
+      height="56"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="[YOUR_GOOGLE_DRIVE_FILE_URL](https://drive.google.com/drive/folders/1VjpfgUMK0M4W3206QnDQLbEC4sV4rrJq?usp=sharing)">
+    <img
+      src="./docs/assets/google-drive-cv.svg"
+      alt="View My CV on Google Drive"
       width="400"
       height="56"
     />
