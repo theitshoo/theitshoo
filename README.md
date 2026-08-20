@@ -29,8 +29,10 @@ Software Engineer specializing in **.NET**, **Backend Development**, and **DevOp
       height="56"
     />
   </a>
-  &nbsp;&nbsp;
-  <a href="[YOUR_GOOGLE_DRIVE_FILE_URL](https://drive.google.com/drive/folders/1VjpfgUMK0M4W3206QnDQLbEC4sV4rrJq?usp=sharing)">
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1VjpfgUMK0M4W3206QnDQLbEC4sV4rrJq?usp=sharing">
     <img
       src="./docs/assets/google-drive-cv.svg"
       alt="View My CV on Google Drive"
